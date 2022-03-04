@@ -51,12 +51,26 @@ Na oryginale zastosowano normalizacje, normalizacje ustawiono do -2db
   <li><a href="https://drive.google.com/file/d/1P0jrmYJsb22yd3nbOCrpFnxn-AJkmZH9/view?usp=sharing"> Zmiana tempa 150% </a></li>
   </ol>
  </br>
- <h3>Odpowiedzi na pytania:</h3>
+ <h2>Odpowiedzi na pytania:</h2>
+ <h3>Na czym polega różnica między zmianą prędkości, a zmianą tempa?</h3>
+   </br> 
+ Podczas odtwarzania utworów zmienionych pod wzgłędem tempa, a prędkości, zauważalnajest różnica w wokalu.
+ Przy zmianie tempa wokal pozostaje bez zmian, w niektórych miejscach skrócony, ale barwa głosu nie ulega zmianie, natomiast sam rytm 
+ melodii zostaje przyśpieszony, w związku z tym utwór trwa krócej, ale nabiera nowych barw.
+ Natomiast zmiana prędkości daje bardziej brutalne zmiany, gdyż vokal zmienia się w bas lub sopran w zależności od prędkości, 
+ a melodia, traci swoją rytmiczność.
  </br>
-
-
+ <h3>Co to jest "loudness normalization"?</h3> 
+  </br> 
+  Normalizacja dźwięku polega na zastosowaniu stałej wartości wzmocnienia do nagrania audio, aby doprowadzić amplitudę do poziomu docelowego. Ponieważ w całym nagraniu zastosowano taką samą wartość wzmocnienia, stosunek sygnału do szumu i względna dynamika pozostają niezmienione.
+  </br>
+<h3>Co to jest "normalize"?</h3>
+ </br>
+ Normalizacja – procedura wstępnej obróbki danych w celu umożliwienia ich wzajemnego porównywania i dalszej analizy.
+ </br>
 <h3> Zadanie 2 </h3>
 </br>
+Nagrany podkast o Harrym Poterze (proszę nie osądzać mam brzydki głos).
 <a href = "https://drive.google.com/file/d/1q53ENOeOkTHkZbQpw272Zb65CwelHyCt/view?usp=sharing">Podkast</a>
 <div class="row right bottom">
   <audio controls play>
